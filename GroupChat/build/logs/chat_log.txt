@@ -1,0 +1,8 @@
+[Group 1] Client 4: Hello group 1
+[Group 2] Client 4: Hello group 2
+[Group 1] Client 4: Back in group 1
+[Group 1] Client 4: switch 2
+Client disconnected: 4
+Client disconnected: 5
+[Group 1] Client 4: Hello group 1
+[Group 2] Client 4: Hello group 2

@@ -1,0 +1,4 @@
+/workspaces/22---CS375---Final-Project/GroupChat/build/CMakeFiles/server.dir
+/workspaces/22---CS375---Final-Project/GroupChat/build/CMakeFiles/client.dir
+/workspaces/22---CS375---Final-Project/GroupChat/build/CMakeFiles/edit_cache.dir
+/workspaces/22---CS375---Final-Project/GroupChat/build/CMakeFiles/rebuild_cache.dir
